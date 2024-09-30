@@ -1,7 +1,7 @@
 # deployAutomox
-Credit to: https://github.com/AutomoxCommunity/se-utilities-public/blob/main/Scripts/Install-AXAgentMSI.ps1
+###### Credit to: https://github.com/AutomoxCommunity/se-utilities-public/blob/main/Scripts/Install-AXAgentMSI.ps1
 
-Added Error handling for troubleshooting.
+###### Added Error handling for troubleshooting.
 
 ---
 When using the deploy_automox.ps1 script from this article Automox Agent Installation Overview, you'll notice that you can use this example to assign a Parent Group:
