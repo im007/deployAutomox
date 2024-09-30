@@ -3,6 +3,7 @@ Credit to: https://github.com/AutomoxCommunity/se-utilities-public/blob/main/Scr
 
 Added Error handling for troubleshooting.
 
+---
 When using the deploy_automox.ps1 script from this article Automox Agent Installation Overview, you'll notice that you can use this example to assign a Parent Group:
 
 .EXAMPLE
